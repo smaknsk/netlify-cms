@@ -1,4 +1,6 @@
 {
+  "name": "smaknsk/netlify-cms",
+  "version": "2.9.6",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "start": "run-s clean bootstrap build:esm develop",
